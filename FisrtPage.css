@@ -1,0 +1,22 @@
+body{
+  color: #040000;
+  background-color: #63f74f;
+
+}
+p{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+ul{
+    display: none;
+    border: 1px;
+    border-style: double;
+  
+
+}
